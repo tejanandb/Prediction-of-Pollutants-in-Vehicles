@@ -3,5 +3,6 @@ The proposal of the research project is, Prediction of pollutants by using machi
 #Requirments of the project
 Dataset is retrieved from kaggle https://www.kaggle.com/datasets/rinichristy/2022-fuel-consumption-ratings
 Python Programming language have used in this project.
-Google colab have been used 
+Google colab have been used.
+
 
